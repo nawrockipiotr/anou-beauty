@@ -3,6 +3,7 @@
 Studium przypadku do przedmiotu „Nowe technologie w marketingu” (Wydział Zarządzania UW).
 
 **Wersja online:** https://nawrockipiotr.github.io/anou-beauty/
+
 **Wersja offline:** plik `Anou_Beauty_case_dla_studentow.html` (przycisk „Download raw file” w widoku pliku) otwiera się w przeglądarce bez dostępu do internetu.
 
 Dokument zawiera spis treści, wyszukiwarkę („Szukaj w całej treści”), druk A4 („Drukuj” / „Drukuj całość”) oraz jasny i ciemny motyw zgodny z ustawieniami systemu. Na końcu znajduje się literatura obowiązkowa z odnośnikami DOI i zakresem lektury.
